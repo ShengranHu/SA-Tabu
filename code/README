@@ -1,0 +1,37 @@
+/* Copyright 2018, Jing Xie, All Rights Reserved
+ * You may only use and modify this code for academic purpose.
+ *
+ * If any concerns, please contact jing@xie.us
+ */
+ 
+The package include the following files:
+
+1) Data files: 
+	10-1
+	10-2
+	10-3
+	10-4
+
+2) SLAP Data Structure:
+	Item.java
+	Layout.java
+	SLAP.java
+
+3) Tabu Search Framework:
+	GCMove.java
+	GCMoveManager.java
+	GCObjectiveFunction.java
+	GCSolution.java
+	hash.java
+	HashSKUSize.java
+	MySingleThreadTabuSearch.java
+	Search.java
+	ZeroTabuList.java
+
+4) Main file: Run.java
+
+The project was developed based on an open-source Tabu Search Framework.
+
+Please download at:
+
+https://www.coin-or.org/Ots/
